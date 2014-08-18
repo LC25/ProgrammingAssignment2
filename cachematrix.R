@@ -5,6 +5,7 @@
 
 
 ## This first function creates a matrix
+
 makeCacheMatrix <- function(x = matrix()) {
      ## Setting the value of the matrix
      new <- NULL
